@@ -10,9 +10,7 @@ pipeline {
 		
 			steps {
 				echo 'Hello World changeset JS'
-			
 			}	
-			
 		}
 	}
 }
